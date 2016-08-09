@@ -1,2 +1,2 @@
 # Gopi678
-Gopinath's personal reository
+Gopinath's personal repository
